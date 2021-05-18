@@ -45,7 +45,7 @@ Code : [Python Code]([INDEX]-[YOUR_PROJECT_NAME]/[YOUR_PROJECT_NAME].py)
 
 
 e.g.
-## 01 Happy Panda
+## 00 Happy Panda
 
 <p align="center">
 <img src="00-Happy-Panda/Happy-Panda.jpg">
