@@ -23,8 +23,8 @@ ASCII-Art/artwork/[INDEX]-[YOUR_PROJECT_NAME]/[YOUR_PROJECT_NAME].jpg
 
 
 e.g.
-ASCII-Art/artwork/01-Happy-Panda/Happy-Panda.py
-ASCII-Art/artwork/01-Happy-Panda/Happy-Panda.jpg
+ASCII-Art/artwork/00-Happy-Panda/Happy-Panda.py
+ASCII-Art/artwork/00-Happy-Panda/Happy-Panda.jpg
 ```
 
 ### 3) In your ASCII-Art Repository, **Add** your output image and source code in README.md file. following format :
@@ -48,12 +48,12 @@ e.g.
 ## 01 Happy Panda
 
 <p align="center">
-<img src="01-Happy-Panda/Happy-Panda.jpg">
+<img src="00-Happy-Panda/Happy-Panda.jpg">
 </p>
 
-Content : 🐼 I Love Happy Panda 🐼
-Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim)
-Code : [Python Code](01-Happy-Panda/Happy-Panda.py)
+Content : 🐼 I Love Happy Panda 🐼 <br>
+Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim) <br>
+Code : [Python Code](00-Happy-Panda/Happy-Panda.py) <br>
 ```
 
 ### 4) Pull Request Your Repository to Origin Repository
