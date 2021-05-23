@@ -5,7 +5,7 @@ ARENA, Art & Technology, CAU.
 ## 00 Happy Panda
 
 <p align="center">
-<img src="00-Happy-Panda/Happy-Panda.jpg">
+<img src="00-Happy-Panda/Happy-Panda.png">
 </p>
 
 Content : 🐼 I Love Happy Panda 🐼 <br>
