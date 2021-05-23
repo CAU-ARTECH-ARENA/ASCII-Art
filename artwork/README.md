@@ -19,5 +19,5 @@ Code : [Python Code](00-Happy-Panda/Happy-Panda.py) <br>
 </p>
 
 Content : Puang is so cute❤ <br>
-Creator : [Jaeyeon](https://github.com/Luna-Jaeyeon) <br>
+Creator : [Jaeyeon](https://github.com/Luna-Jayeon) <br>
 Code : [Python Code](01-Puang/Puang.py) <br>
