@@ -12,6 +12,7 @@ Content : 🐼 I Love Happy Panda 🐼 <br>
 Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim) <br>
 Code : [Python Code](00-Happy-Panda/Happy-Panda.py) <br>
 
+
 ## 01 Puang
 
 <p align="center">
@@ -22,6 +23,7 @@ Content : Puang is so cute❤ <br>
 Creator : [Jaeyeon](https://github.com/Luna-Jaeyeon) <br>
 Code : [Python Code](01-Puang/Puang.py) <br>
 
+
 ## 02 CAU
 
 <p align="center">
@@ -29,5 +31,5 @@ Code : [Python Code](01-Puang/Puang.py) <br>
 </p>
 
 Content : CAU logo <br>
-Creator : [802-R](https://github.com/802-R)
+Creator : [802-R](https://github.com/802-R) <br>
 Code : [Python Code](02-CAU/CAU.py)
