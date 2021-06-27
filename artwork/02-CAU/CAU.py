@@ -24,7 +24,7 @@ print("""
                       CAUCAUCAUCAU        CAUCAUCAUCAUCAUCA             UCAUCA
                                                 CAUCAUCAU                CAUC
                                                CAUCAUCAU                 CAU
-                                                CAUCAU                    CA
+                                                 CAUCA                    UC
                                                                            C
                                                                            
 """)
