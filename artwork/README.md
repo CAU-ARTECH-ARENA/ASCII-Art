@@ -21,3 +21,13 @@ Code : [Python Code](00-Happy-Panda/Happy-Panda.py) <br>
 Content : Puang is so cute❤ <br>
 Creator : [Jaeyeon](https://github.com/Luna-Jaeyeon) <br>
 Code : [Python Code](01-Puang/Puang.py) <br>
+
+## 02 CAU
+
+<p align="center">
+<img src="02-CAU/CAU.jpg">
+</p>
+
+Content : CAU logo <br>
+Creator : [802-R](https://github.com/802-R)
+Code : [Python Code](02-CAU/CAU.py)
