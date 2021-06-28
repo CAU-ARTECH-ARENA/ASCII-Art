@@ -30,7 +30,8 @@ Code : [Python Code](01-Puang/Puang.py) <br>
 
 Content : CAU logo/UI(University Identity) <br>
 Creator : [802-R](https://github.com/802-R) <br>
-Code : [Python Code](02-CAU/CAU.py)
+Code : [Python Code](02-CAU/CAU.py) <br>
+IDE : VS Code
 
 ## 03 Jupiter
 
