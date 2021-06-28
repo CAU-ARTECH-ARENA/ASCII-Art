@@ -31,3 +31,14 @@ Code : [Python Code](01-Puang/Puang.py) <br>
 Content : CAU logo/UI(University Identity) <br>
 Creator : [802-R](https://github.com/802-R) <br>
 Code : [Python Code](02-CAU/CAU.py)
+
+## 03 Jupiter
+
+<p align="center">
+<img src="03-Jupiter/Jupiter.PNG">
+</p>
+
+Content : Jupiter <br>
+Creator : [choisunmi](https://github.com/choisunmi00) <br>
+Code : [Python Code](03-Jupiter/Jupiter.py) <br>
+IDE : cmd
